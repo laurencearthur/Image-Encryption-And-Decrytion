@@ -88,11 +88,8 @@ public class Main {
         f.add(textField);
         f.add(button);
         f.add(l1); f.add(l2);
-
         f.setVisible(true);
-
-
-
+      
     }
 
 }
